@@ -9,6 +9,8 @@ click on the tool name to see the code, documentation, and visualziation.
 
 - **[img_dates:](/scripts/gee/img_dates.ipynb)** A tool for extracting and visualizing the dates of available images in a GEE image collection.
 
+![Imgur](https://imgur.com/HjlzjP0.gif)
+
 **More tools coming soon!**
 
 ## Installation

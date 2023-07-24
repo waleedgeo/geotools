@@ -14,29 +14,15 @@ This repository contains various remote sensing, Google Earth Engine, ArcPy, and
 
 ## Installation
 
-Currently, the geotools require Python 3 and associated libraries like numpy, rasterio, ee, geemap etc. Specific dependencies are listed in the requirements.txt file. The easiest way to install the dependencies is to use conda. If you don't have conda installed, you can download and install it from [here](https://docs.conda.io/en/latest/miniconda.html).
+Currently, the geotools require Python 3 and associated libraries like numpy, rasterio, ee, geemap etc. Specific dependencies are listed in the requirements.txt file. The easiest way to install the dependencies is to use conda. If you don't have conda installed, you can download and install it from [here](https://docs.conda.io/en/latest/miniconda.html). After installing conda, [check this repository](https://github.com/opengeos/python-geospatial) to install required dependencies.
 
 Clone the repository and install requirements:
 
-```
-git clone https://github.com/waleedgeo/geotools.git
-pip install -r requirements.txt
-```
-
-Then you can either open each jupyter noteebook in the tools directory and run the code, or you can import the tools as a module in your own Python scripts.
-To import the tools as a module, add the path to the geotools directory to your PYTHONPATH environment variable. For example, if you are using a bash shell, you can add the following line to your .bashrc file:
-
-```
-export PYTHONPATH=$PYTHONPATH:/path/to/geotools
+```git
+git clone https://github.com/waleedgeo/geotools.
 ```
 
-Then you can import the tools in your Python scripts:
-
-Alternatively, you can also copy the geotools.py file to your working directory and import the tools as a module in your Python scripts:
-
-```
-from geotools import NAME_OF_TOOL
-```
+Then you can open each jupyter noteebook in the scripts directory and run the code
 
 
 ## Contributing

@@ -1,15 +1,14 @@
 
+![geotools](https://imgur.com/MZ1rfKA.png)
 # GeoTools
 
-This repository contains various remote sensing, Google Earth Engine, ArcPy, and Python-based tools for different geospatial applications. The overall purpose of these tools is to provide a set of functions that can be used to automate common geospatial tasks. The tools are organized into different directories based on their source package.
+This repository contains various remote sensing, Google Earth Engine, ArcPy, and Python-based tools for different geospatial applications. The overall purpose of these tools is to provide a set of functions that can be used to automate common geospatial tasks.
 
 ## List of Tools
 
-click on the tool name to see the code, documentation, and visualziation.
-
 - **[img_dates:](/scripts/gee/img_dates.ipynb)** A tool for extracting and visualizing the dates of available images in a GEE image collection.
 
-![Imgur](https://imgur.com/HjlzjP0.gif)
+![Imgur](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpvdnZlejJxcHU2aGRibTJxZnhuejR3cHFsd2Q0dWkxdTlvZWx3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ex61FwWjObK1SEURc1/giphy.gif)
 
 **More tools coming soon!**
 

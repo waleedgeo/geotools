@@ -1,8 +1,16 @@
-    /*
-    This is the script to generate the data availability chart
-    as stacked bar representing ascending and descending pass 
-    separately.
-    */
+/*
+    ***** Image Dates Acquisition Tool *****
+
+    This tool is used to find the available satellite images 
+    in a given time period and for a given area of interest.
+    
+    The tool is developed by Mirza Waleed (waleedgeo@outlook.com)
+
+    The tools is also available as a python version at:
+    https://github.com/waleedgeo/geotools/blob/main/tools/01_image_dates/image_dates.ipynb
+
+    Below is the code for the standalon function implemented in Google Earth Engine.
+*/
     function generateCollectionChart(startDate, endDate, aoi){
 
         // Filter images by date range and AOI

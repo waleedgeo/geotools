@@ -1,14 +1,19 @@
+<p align="center">
+  <img  src="https://imgur.com/MZ1rfKA.png">
+</p>
 
-![geotools](https://imgur.com/MZ1rfKA.png)
-# GeoTools
+
 
 This repository contains various remote sensing, Google Earth Engine, ArcPy, and Python-based tools for different geospatial applications. The overall purpose of these tools is to provide a set of functions that can be used to automate common geospatial tasks.
 
 ## List of Tools
 
-- **[img_dates:](/scripts/gee/img_dates.ipynb)** A tool for extracting and visualizing the dates of available images in a GEE image collection.
-
-![Imgur](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpvdnZlejJxcHU2aGRibTJxZnhuejR3cHFsd2Q0dWkxdTlvZWx3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ex61FwWjObK1SEURc1/giphy.gif)
+1. Image Dates Acquisition Tool for Visualizing Image Availability for Sentinel-1, Sentinel-2, Landsat-8 and Landsat-9 
+(
+  [GEE App](https://waleedgis.users.earthengine.app/view/imagedates) 
+| 
+  [Advanced Python Version Notebook](https://github.com/waleedgeo/geotools/blob/main/tools/01_image_dates/image_dates.ipynb)
+)
 
 **More tools coming soon!**
 

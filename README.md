@@ -15,6 +15,14 @@ This repository contains various remote sensing, Google Earth Engine, ArcPy, and
   [Advanced Python Version Notebook](https://github.com/waleedgeo/geotools/blob/main/tools/01_image_dates/image_dates.ipynb)
 )
 
+2. Sentinel-1 Backscatter Profiles for Land-use Using Earth Engine: A Box Plot Approach
+( 
+  [Blog Post](https://waleedgeo.medium.com/sentinel-1-backscatter-profiles-for-land-use-using-earth-engine-a-box-plot-approach-76dba22d378f) 
+| 
+  [Video Tutorial](https://youtu.be/3Yexo6Q--tk)
+|
+  [GEE JS Code](https://github.com/waleedgeo/geotools/blob/main/tools/02_s1boxplot/s1_boxplot.js))
+
 **More tools coming soon!**
 
 ## Installation
